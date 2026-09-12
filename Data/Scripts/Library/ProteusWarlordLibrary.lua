@@ -322,7 +322,7 @@ return {
 				"Swift_Assault_5_Company", "MZ8_Tank_Company", "Imperial_LAAT_Company", "TIE_Crawler_Company", "Freerunner_AA_Company",
 				"Imperial_A5_Juggernaut_Company", "Imperial_A5RX_Company",
 				-- Pirate Units
-				"Interceptor_III_Frigate", "Space_ARC_Cruiser", "Munificent_C3", "Refit_Venator_Star_Destroyer", 
+				"Interceptor_III_Frigate_Pirate", "Space_ARC_Cruiser", "Munificent_C3", "Refit_Venator_Star_Destroyer", 
 				-- Structures
 				"Pirate_Base",
 				-- Research
