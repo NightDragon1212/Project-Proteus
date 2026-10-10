@@ -640,4 +640,5 @@ return {
     ,SUPERNOVA_VIBES = {nil, true}
     ,MICHAEL_TERROR = {nil, true}
     ,["17786_TEAM"] = {nil, false}
+    ,BENGILA_URLAN_TEAM = {"Is_Production_Planet", false}
 }
