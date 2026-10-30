@@ -13,7 +13,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -37,7 +37,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -61,7 +61,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -85,7 +85,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -109,7 +109,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -133,7 +133,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -157,7 +157,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -181,7 +181,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -205,7 +205,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -229,7 +229,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -253,7 +253,7 @@ return {
 			{"Rep_DHC", 3},
 			{"Imperial_TX130T_Company", 3},
 			{"Captor", 3},
-			{"Gladiator_II", 3},
+			{"Neutron_Star", 3},
 		},
 		{
 			{"XR85_Company", 2},  
@@ -266,9 +266,9 @@ return {
 	PDF = {
 		{
 			{"Pursuer_Enforcement_Ship_Group", 4},
-			{"Destroyer_Droid_II_Company", 4},
+			{"Interceptor_IV_Frigate", 4},
 			{"Light_Mercenary_Company", 5},
-			{"SD_6_Droid_Company", 4},
+			{"Action_VI_Support", 4},
 			{"Imperial_Bantha_II_Skiff_Company", 4},			
 		},
 		{
@@ -279,8 +279,8 @@ return {
 		},
 		{
 			{"Elite_Mercenary_Company", 3},
-			{"Neutron_Star_Tender", 3},
-			{"PDF_DHC", 3},
+			{"Neutron_Star_Mercenary", 3},
+			{"Super_Transport_XI_Modified", 2},
 			{"Nimbus_Commando_Company", 5},
 			{"Canderous_Assault_Tank_Lasers_Company", 2},			
 		}
