@@ -11,15 +11,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -35,15 +35,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -59,15 +59,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -83,15 +83,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -107,15 +107,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -131,15 +131,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -155,15 +155,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -179,15 +179,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-		--	--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-		--	--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -203,15 +203,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -227,15 +227,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
@@ -251,15 +251,15 @@ return {
 		{
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Imperial_008_Company", 3},
-			--	{"XR37_Company", 3},
+			{"Imperial_TNT_Company", 3},
 			{"Gladiator_Demolisher", 3},
 			{"Proteus_Cargo_Ship", 3},
 		},
 		{
 			{"XR85_Company", 2},  
-			--	{"Corellian_Light_Corvette_Company", 1}, 
-			{"Imperial_AT_ACT_Walker_Company", 2},
-			{"Imperial_Fleet_Commando_Company", 5},  
+			{"A9_Floating_Fortress_Company", 2}, 
+			{"Imperial_AT_TE_Walker_Cannoneer_Company", 2},
+			{"Imperial_Jumptrooper_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
